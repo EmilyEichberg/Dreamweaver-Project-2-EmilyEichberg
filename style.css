@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+body{
+	margin:0;
+	padding:0;
+}
+
+img{
+	position:absolute;
+}
+
+.Fish1{
+	left:600px;
+	top:600px;
+}
+
+.Sheep5{
+	left:4000px;
+	top:700px;
+}
+
+.Dino1{
+	left:2500px;
+	top:1000px;
+}
+
+.Color{
+	left:2000px;
+	top:2000px;
+}
+
+.five{
+	left:4000px;
+	top:2000px;
+}
+
+.Blue1{
+	left:400px;
+	top:2000px;
+}
+
+.Done1{
+	left:4500px;
+	top:0px;
+}
